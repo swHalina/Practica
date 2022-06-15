@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/560/21/195/warcraft-world-of-warcraft-elwynn-forest-forest-house-hd-wallpaper-preview.jpg");
+    Background-color: #388E3C;
+}
+
+.intro {
+background-color: #993399 ;
+text-align: left;
+font-size: 120%;
+color:black;
+} 
+
+.subintro {
+background-color: #EC407A;
+text-align: center;
+font-size: 150%;
+color: white;
+}    
